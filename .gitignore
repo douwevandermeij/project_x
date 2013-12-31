@@ -3,5 +3,5 @@ lib
 include
 *.pyc
 .Python
-static
+/static
 
